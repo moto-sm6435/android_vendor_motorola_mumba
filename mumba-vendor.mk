@@ -56,6 +56,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20433.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20433.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20465gid1_3d_50.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20465gid1_3d_50.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20601.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20601gid1_3d_2273.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20601gid1_3d_2273.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20601gid1_3d_28.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20601gid1_3d_28.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20601gid1_3d_4e524a31.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20601gid1_3d_4e524a31.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20601gid1_3d_b6.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20601gid1_3d_b6.pb \
@@ -98,6 +99,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s208090gid1_3d_11ffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s208090gid1_3d_11ffffffffffffff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_11ffffffffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_11ffffffffffffff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6332.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6332.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6336.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6336.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6530.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6532.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6532.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6538.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6538.pb \
@@ -105,6 +107,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6636.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6636.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6638.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6638.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6732.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6732.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6736.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6736.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6738.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6738.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6830.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6830.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_6836.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_6836.pb \
@@ -121,6 +124,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_9034.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_9034.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_9036.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_9036.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_9038.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_9038.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_9234.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_9234.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809gid1_3d_9434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809gid1_3d_9434.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809imsi_3d_208090021.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809imsi_3d_208090021.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809imsi_3d_208090022.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809imsi_3d_208090022.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20809imsi_3d_208090036.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20809imsi_3d_208090036.pb \
@@ -146,6 +151,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20822.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20822.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20822spn_3d_fr_2d_transatel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20822spn_3d_fr_2d_transatel.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20823gid1_3d_52.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20823gid1_3d_52.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20825.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20825.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20826.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20826.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20826gid1_3d_4e524a31.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20826gid1_3d_4e524a31.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s20827.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s20827.pb \
@@ -210,12 +216,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406gid1_3d_214050111.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406gid1_3d_214050111.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_eroski_20_movil.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_eroski_20_movil.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_euskaltel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_euskaltel.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_finetwork.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_finetwork.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_hits.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_hits.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_lebara.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_lebara.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_lowi.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_lowi.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_pepephone.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_pepephone.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_ptv_20_telecom.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_ptv_20_telecom.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21406spn_3d_telecable.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21406spn_3d_telecable.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s21407.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s21407.pb \
@@ -356,8 +358,16 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22803gid1_3d_bb00.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22803gid1_3d_bb00.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22803spn_3d_ch_2d_transatel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22803spn_3d_ch_2d_transatel.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22812.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22812.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22854.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22854.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22858.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22858.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22858spn_3d_mucho.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22858spn_3d_mucho.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22865.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22865.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22865gid1_3d_4e657870686f6e65.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22865gid1_3d_4e657870686f6e65.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22871.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22871.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22872.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22872.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22872spn_3d_solnet.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22872spn_3d_solnet.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22873.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22873.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s22874.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s22874.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s23001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23001.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s23001spn_3d_innogy.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23001spn_3d_innogy.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s23001spn_3d_kaktus.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s23001spn_3d_kaktus.pb \
@@ -561,6 +571,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24202imsi_3d_2420256.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24202imsi_3d_2420256.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24204.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24204.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24205.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24205.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24205spn_3d_mycall.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24205spn_3d_mycall.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24205spn_3d_onecall.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24205spn_3d_onecall.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24208.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24208.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24209.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24209.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s24212.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s24212.pb \
@@ -637,19 +649,25 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s25915spn_3d_idc.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s25915spn_3d_idc.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26001.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_10.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_10.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_11.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_11.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_12.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_12.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_13.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_13.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_14.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_14.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_16.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_16.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_17.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_17.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_20.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_20.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_21.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_21.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_22.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_22.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_23.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_23.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_24.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_24.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_25.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_25.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_26.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_26.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_27.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_27.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_28.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_28.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_29.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_29.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002gid1_3d_30.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002gid1_3d_30.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002spn_3d_heyah.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_heyah.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl_20_q.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_t_2d_mobile_2e_pl_20_q.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26002spn_3d_tu_20_biedronka.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26002spn_3d_tu_20_biedronka.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26003.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26003.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26003spn_3d_nju.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26003spn_3d_nju.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26003spn_3d_orange.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26003spn_3d_orange.pb \
@@ -774,9 +792,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26211.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26211.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26212.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26212.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26214.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26214.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26214spn_3d_lebara.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26214spn_3d_lebara.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26221.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26221.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26223.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26223.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26242.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26242.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26243.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26243.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26298.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26298.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26601.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s26801.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s26801.pb \
@@ -837,6 +857,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s27602spn_3d_vodafone_20_al.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s27602spn_3d_vodafone_20_al.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s27603.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s27603.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s27801.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s27801.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s27821.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s27821.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s28001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s28001.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s28010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s28010.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s28020.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s28020.pb \
@@ -866,6 +887,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s29402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29402.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s29403.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29403.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s29501.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29501.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s29502.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29502.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s29505spn_3d_emnify.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29505spn_3d_emnify.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s29509.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29509.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s29509spn_3d_bics.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s29509spn_3d_bics.pb \
@@ -877,11 +899,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302131.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302131.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302150.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302150.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302151.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302151.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_2273.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_2273.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_4b4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_4b4f.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_4d4f.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_4d4f.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_5043.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_5043.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_5455.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_5455.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6332.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6332.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6336.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6336.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6530.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6532.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6532.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6538.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6538.pb \
@@ -890,6 +914,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6636.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6636.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6638.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6638.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6732.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6732.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6736.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6736.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6738.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6738.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6830.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6830.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_6836.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_6836.pb \
@@ -906,6 +931,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_9034.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_9034.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_9036.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_9036.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_9038.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_9038.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_9234.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_9234.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220gid1_3d_9434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220gid1_3d_9434.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220spn_3d_wom.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220spn_3d_wom.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220spn_3d_wom_20_roaming.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220spn_3d_wom_20_roaming.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302220spn_3d_wom_20_roaming_20_int.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302220spn_3d_wom_20_roaming_20_int.pb \
@@ -983,6 +1010,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s30286gid1_3d_5455.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s30286gid1_3d_5455.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302940.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302940.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s302990.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s302990.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s30803.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s30803.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s31000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s31000.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310000.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310000gid1_3d_6134.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310000gid1_3d_6134.pb \
@@ -1150,7 +1178,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310050.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310050.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310050spn_3d_alaskacomm.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310050spn_3d_alaskacomm.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310066.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310066.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310070.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310070.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310080.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310080.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310090.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310090.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310090gid1_3d_80ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310090gid1_3d_80ff.pb \
@@ -1342,6 +1369,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4154.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4154.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4155.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4155.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4276.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4276.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4352.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4352.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4358.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4358.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_4d4b.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_4d4b.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_514c.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_514c.pb \
@@ -1351,13 +1379,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6134.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6134.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6136.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6136.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6230.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6230.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6303.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6303.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6430.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6430.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6432.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6432.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6436.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6436.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6438.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6438.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6440.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6440.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6442.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6442.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6784.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6784.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6901.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6901.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6902.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6902.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6903.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6903.pb \
@@ -1369,6 +1397,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6912.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6912.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6913.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6913.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6914.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6914.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6915.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6915.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6916.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6916.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6917.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6917.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6918.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6918.pb \
@@ -1376,7 +1405,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6921.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6921.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6922.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6922.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6923.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6923.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6924.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6924.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6925.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6925.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6926.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6926.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6927.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6927.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6941.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6941.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6957.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6957.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310240gid1_3d_6972.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310240gid1_3d_6972.pb \
@@ -1416,6 +1448,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4155.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4155.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4201.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4201.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4276.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4276.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4352.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4352.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4358.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4358.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_44ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_44ff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_4753.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_4753.pb \
@@ -1440,7 +1473,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_61ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_61ff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6230.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6230.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_62ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_62ff.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6303.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6303.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6901.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6901.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6902.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6902.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6903.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6903.pb \
@@ -1452,6 +1484,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6912.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6912.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6913.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6913.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6914.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6914.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6915.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6915.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6916.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6916.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6917.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6917.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6918.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6918.pb \
@@ -1459,7 +1492,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6921.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6921.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6922.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6922.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6923.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6923.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6924.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6924.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6925.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6925.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6926.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6926.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6927.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6927.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6941.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6941.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6957.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6957.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310260gid1_3d_6972.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310260gid1_3d_6972.pb \
@@ -1618,6 +1654,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310599.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01270000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01270000000000.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01450000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01450000000000.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01490000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01490000000000.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01500000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01500000000000.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01620000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01620000000000.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310599gid1_3d_ba01640000000000.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310599gid1_3d_ba01640000000000.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310600.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310600.pb \
@@ -1631,7 +1669,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310660gid1_3d_2ac9.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310660gid1_3d_2ac9.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310660gid1_3d_6d38.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310660gid1_3d_6d38.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310670.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310670.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310680.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310680.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310690.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310690.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310720.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310720.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s310750.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s310750.pb \
@@ -1886,6 +1923,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s311586.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311586.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s311587.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311587.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s311588.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311588.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s311588gid1_3d_2273.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311588gid1_3d_2273.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s311588gid1_3d_6624.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311588gid1_3d_6624.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s311589.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311589.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s311590.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s311590.pb \
@@ -2094,6 +2132,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s312630spn_3d_persistent_20_telecom.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312630spn_3d_persistent_20_telecom.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s312630spn_3d_pti.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312630spn_3d_pti.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s312670.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312670.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s312670gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312670gid1_3d_52ff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s312720.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312720.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s312720spn_3d_sprint.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312720spn_3d_sprint.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s312870.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s312870.pb \
@@ -2110,9 +2149,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313120.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313120.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313120gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313120gid1_3d_52ff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313130.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313130.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313130gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313130gid1_3d_52ff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313140.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313140.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313140gid1_3d_52ff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313140gid1_3d_52ff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313220.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313220.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6332.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6332.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6336.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6336.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6530.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6532.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6532.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6538.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6538.pb \
@@ -2121,6 +2163,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6638.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6638.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6730.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6730.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6732.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6732.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6736.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6736.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6738.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6738.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6830.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6830.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_6836.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_6836.pb \
@@ -2137,10 +2180,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_9034.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_9034.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_9036.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_9036.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_9038.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_9038.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313350gid1_3d_6332.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313350gid1_3d_6332.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313350gid1_3d_6530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313350gid1_3d_6530.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313360gid1_3d_6332.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313360gid1_3d_6332.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313360gid1_3d_6530.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313360gid1_3d_6530.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_9234.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_9234.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313340gid1_3d_9434.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313340gid1_3d_9434.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313380.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313380.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313390.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313390.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313450.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313450.pb \
@@ -2148,7 +2189,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313460.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313460.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313460gid1_3d_6624.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313460gid1_3d_6624.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313590.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313590.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313640.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313640.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313770.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313770.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313790.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313790.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s313930.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s313930.pb \
@@ -2156,6 +2196,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s314090.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314090.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s314200.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314200.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s314240.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314240.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s314420.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314420.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s314560gid1_3d_2273.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314560gid1_3d_2273.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s314720.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s314720.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s315010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s315010.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s315010gid1_3d_6907.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s315010gid1_3d_6907.pb \
@@ -2234,7 +2276,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s33818.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s33818.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s338180.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s338180.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s34001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34001.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s34004.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34004.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s34004gid1_3d_f008.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34004gid1_3d_f008.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s34009.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34009.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s34009gid1_3d_f007.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34009gid1_3d_f007.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s34020.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34020.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s34020imsi_3d_3402002.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s34020imsi_3d_3402002.pb \
@@ -2276,6 +2320,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s370020.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s370020.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s37004.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s37004.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s37202.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s37202.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s37203.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s37203.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s37412.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s37412.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s374120.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s374120.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s374121.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s374121.pb \
@@ -2689,9 +2734,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43235.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43235.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43270.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43270.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43293.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43293.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43404.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43404.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43405.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43405.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43406.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43406.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43407.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43407.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43408.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43408.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43410.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43410.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43411.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43411.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43601.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43601.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s43602.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s43602.pb \
@@ -2710,8 +2758,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44010.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44010.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44010gid1_3d_00ffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44010gid1_3d_00ffff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44010gid1_3d_01ffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44010gid1_3d_01ffff.pb \
-    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44010spn_3d_rakuten.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44010spn_3d_rakuten.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44011.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44011.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44011spn_3d_rakuten.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44011spn_3d_rakuten.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44013.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44013.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44020.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44020.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s44020gid1_3d_01ffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s44020gid1_3d_01ffff.pb \
@@ -2747,6 +2795,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s45205.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45205.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s45207.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45207.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s45208.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45208.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s45210spn_3d_pottel.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45210spn_3d_pottel.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s45400.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45400.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s45400gid1_3d_01010000ffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45400gid1_3d_01010000ffffffff.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s45400gid1_3d_01020000ffffffff.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s45400gid1_3d_01020000ffffffff.pb \
@@ -3236,6 +3285,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s73023.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73023.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s73026.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73026.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s73028.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73028.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s73031.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73031.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732001.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732001.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732101.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732101.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732103.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732103.pb \
@@ -3257,6 +3307,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732123imsi_3d_732123212.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732123imsi_3d_732123212.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732123spn_3d_virgin_20_mobile.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732123spn_3d_virgin_20_mobile.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732130.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732130.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732157.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732157.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732187.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732187.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s732360.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s732360.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s73401.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s73401.pb \
@@ -3278,6 +3329,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s74402.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s74402.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s74404.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s74404.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s74405.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s74405.pb \
+    vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s74407.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s74407.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s74602.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s74602.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s74603.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s74603.pb \
     vendor/motorola/mumba/proprietary/product/etc/CarrierSettings/s74800.pb:$(TARGET_COPY_OUT_PRODUCT)/etc/CarrierSettings/s74800.pb \
@@ -3294,7 +3346,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/product/etc/permissions/UimGba.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimGba.xml \
     vendor/motorola/mumba/proprietary/product/etc/permissions/UimGbaManager.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimGbaManager.xml \
     vendor/motorola/mumba/proprietary/product/etc/permissions/UimService.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimService.xml \
-    vendor/motorola/mumba/proprietary/product/etc/permissions/privapp-permissions-com.google.android.euicc.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-com.google.android.euicc.xml \
+    vendor/motorola/mumba/proprietary/product/etc/permissions/privapp-permissions-euiccgoogle.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-euiccgoogle.xml \
     vendor/motorola/mumba/proprietary/product/etc/permissions/privapp-permissions-hotword.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-hotword.xml \
     vendor/motorola/mumba/proprietary/product/etc/sysconfig/hotword-hiddenapi-package-whitelist.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/hotword-hiddenapi-package-whitelist.xml \
     vendor/motorola/mumba/proprietary/recovery/root/vendor/firmware/ILITEK_FW_TXD:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ILITEK_FW_TXD \
@@ -3303,6 +3355,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/system/etc/sysconfig/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/qti_whitelist.xml \
     vendor/motorola/mumba/proprietary/system_ext/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/dpm/dpm.conf \
     vendor/motorola/mumba/proprietary/system_ext/etc/init/dpmd.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/dpmd.rc \
+    vendor/motorola/mumba/proprietary/system_ext/etc/init/imsvtdaemon.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/imsvtdaemon.rc \
+    vendor/motorola/mumba/proprietary/system_ext/etc/init/loc_sys_service.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/loc_sys_service.rc \
     vendor/motorola/mumba/proprietary/system_ext/etc/init/qspa_system.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/qspa_system.rc \
     vendor/motorola/mumba/proprietary/system_ext/etc/init/vendor.qti.qccsyshal_aidl-service.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/vendor.qti.qccsyshal_aidl-service.rc \
     vendor/motorola/mumba/proprietary/system_ext/etc/init/wfdservice.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/wfdservice.rc \
@@ -3320,6 +3374,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/mumba/proprietary/system_ext/etc/permissions/wfd-system-ext-privapp-permissions-qti.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/wfd-system-ext-privapp-permissions-qti.xml \
     vendor/motorola/mumba/proprietary/system_ext/etc/public.libraries-qti.txt:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/public.libraries-qti.txt \
     vendor/motorola/mumba/proprietary/system_ext/etc/qspa/qspa_default.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/qspa/qspa_default.rc \
+    vendor/motorola/mumba/proprietary/system_ext/etc/seccomp_policy/imsvtdaemon.policy:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/seccomp_policy/imsvtdaemon.policy \
     vendor/motorola/mumba/proprietary/system_ext/etc/seccomp_policy/tcmd.policy:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/seccomp_policy/tcmd.policy \
     vendor/motorola/mumba/proprietary/system_ext/etc/seccomp_policy/wfdservice64.policy:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/seccomp_policy/wfdservice64.policy \
     vendor/motorola/mumba/proprietary/vendor/etc/ArmHDCP_QTI_Android.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/ArmHDCP_QTI_Android.cfg \
@@ -3834,6 +3889,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     vendor.qti.diaghal-V1-ndk \
+    vendor.qti.gnss-V8-cpp \
     aidl_hdcp_interface-V1-ndk \
     android.hardware.bluetooth.audio-impl_prebuilt \
     android.hardware.secure_element.thales.libse \
@@ -4063,6 +4119,10 @@ PRODUCT_PACKAGES += \
     libadsp_default_listener \
     libadspd \
     libadsprpc \
+    libagm \
+    libagmclient \
+    libagmipcservice \
+    libagmmixer \
     libaidenoiser \
     libaidenoiserv2 \
     libanc_hdr \
@@ -4073,10 +4133,14 @@ PRODUCT_PACKAGES += \
     libanc_sn_adapter_front_main \
     libanc_sn_adapter_rear_main \
     libanc_sn_adapter_rear_uw \
+    libar-acdb \
+    libar-gpr \
+    libar-gsl \
     libar-pal \
     libarcsoft_chi_utils \
     libarcsoft_distortion_correction \
     libarcsoft_portrait_distortion_correction \
+    libats \
     libaualgo_azp_component \
     libaualgo_azp_wrapper \
     libaualgo_foundation \
@@ -4206,6 +4270,8 @@ PRODUCT_PACKAGES += \
     liblowi_common \
     liblowi_wifihal \
     liblqe \
+    liblx-ar_util \
+    liblx-osal \
     libmcs \
     libmctfengine_stub \
     libmdmcutback \
@@ -4442,7 +4508,7 @@ PRODUCT_PACKAGES += \
     motorola.hardware.camera.desktop@1.0 \
     motorola.hardware.camera.desktop@2.0 \
     motorola.hardware.fdr-V1-ndk \
-    motorola.hardware.health.aidl-V1-ndk \
+    motorola.hardware.health.aidl-V2-ndk \
     motorola.hardware.health.storage.aidl-V1-ndk \
     motorola.hardware.health.storage@1.0 \
     motorola.hardware.rpmb-V1-ndk \
@@ -4490,6 +4556,17 @@ PRODUCT_PACKAGES += \
     libsw2dlut_dsp_skel \
     sensors.moto \
     sensors.ssc \
+    libbundleaidl \
+    libdownmixaidl \
+    libdynamicsprocessingaidl \
+    libldnhncr \
+    libloudnessenhanceraidl \
+    libqcompostprocbundle \
+    libqcomvisualizer \
+    libqcomvoiceprocessing \
+    libreverbaidl \
+    libvisualizeraidl \
+    libvolumelistener \
     vendor.libdpmctmgr \
     vendor.libdpmfdmgr \
     vendor.libdpmframework \
@@ -4596,13 +4673,13 @@ PRODUCT_PACKAGES += \
     lib-imsvt \
     lib-imsvtextutils \
     lib-imsvtutils \
+    libSurfaceUtil_jni \
     libdiag_system \
     libdiagatbparser_system \
     libdpmctmgr \
     libdpmfdmgr \
     libdpmframework \
     libdpmtcm \
-    libimscamera_jni \
     libimsmedia_jni \
     libmmosal \
     libmmparser_lite \
@@ -4631,6 +4708,7 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface \
     vendor.qti.ImsRtpService-V1-ndk \
     vendor.qti.ImsRtpService-V2-ndk \
+    vendor.qti.ImsVtService-ndk \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.dpmaidlservice-V1-ndk \
     vendor.qti.hardware.dpmservice@1.0 \
@@ -4647,6 +4725,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.qccsyshal_aidl-V1-ndk \
     vendor.qti.qccsyshal_aidl-halimpl \
     vendor.qti.qccvndhal_aidl-V1-ndk \
+    vendor.qti.qccvndhal_aidl-V2-ndk \
+    vendor.qti.qesdhalaidl-V3-ndk \
     com.google.android.widevine-12498615 \
     CACertService \
     CneApp \
@@ -4658,7 +4738,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentYGoogleHEXAGON_WIDEBAND \
     ImsRcsService \
     QCC \
-    QtiTelephonyService \
     QtiTelephony \
     WfdService \
     dpmserviceapp \
@@ -4674,6 +4753,7 @@ PRODUCT_PACKAGES += \
     dpmapi \
     moto-telephony \
     qcrilhook \
+    vendor.qti.ImsVtService-java \
     vendor.qti.ims.connection-V1.0-java \
     vendor.qti.ims.connectionaidlservice-V1-java \
     vendor.qti.ims.datachannelservice-V2-java \
@@ -4894,11 +4974,13 @@ PRODUCT_PACKAGES += \
     xtra-daemon \
     xtwifi-client \
     dpmd \
+    imsvtdaemon \
+    loc_sys_service \
     qccsyshal_aidl-service \
     wfdservice64
 
 PRODUCT_PACKAGES += \
-    system_ext_priv-app_ims_lib_arm64_libimscamera_jni_so \
+    system_ext_priv-app_ims_lib_arm64_libSurfaceUtil_jni_so \
     system_ext_priv-app_ims_lib_arm64_libimsmedia_jni_so \
     system_ext_priv-app_WfdService_lib_arm64_libwfdnative_so \
     vendor_bin_expat \
